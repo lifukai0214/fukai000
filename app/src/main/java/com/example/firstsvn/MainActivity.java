@@ -12,6 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String asd = "q21321we";
         String qwe = "a123";
-        String tl="测试";
     }
 }
